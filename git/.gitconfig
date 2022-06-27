@@ -1,0 +1,8 @@
+[commit]
+	gpgsign = true
+[tag]
+	gpgSign = true
+[user]
+	signingkey = 6390AFE0
+	name = Dan
+	email = ""
